@@ -1,0 +1,29 @@
+name: Cello Yoga
+favicon: null
+layout_spectrum: 0.25425424752756953
+typography_spectrum: 0.009408266050741076
+title: music for your soul
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8263863429892808
+  lightness: 0.5448219915851951
+  saturation: 0.6360695722978562
+  rhythmicContrast: 0.9241984570398927
+purpose: []
