@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[music for your soul]]></title>
+        <description><![CDATA[music for your soul]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 17:29:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ebb & Flow]]></title>
+            <description><![CDATA[<article><h1>Ebb & Flow</h1><p>Album: Ebb & Flow</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1566e61-cc51-408b-b2e7-a53958237dc4.png"></article>]]></description>
+            <link>undefinedebb-and-flow/index.html</link>
+            <guid isPermaLink="false">4be3502f-c70e-489e-8ec9-bef9c06d4fdb</guid>
+            <pubDate>Fri, 22 Jan 2016 17:21:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
