@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: album released Dec 2014
-datePublished: '2016-01-22T17:28:00.618Z'
-dateModified: '2016-01-22T17:27:55.919Z'
+datePublished: '2016-01-22T23:29:10.810Z'
+dateModified: '2016-01-22T23:29:08.912Z'
 title: 'Ebb & Flow'
 author: []
+sourcePath: _posts/2016-01-22-ebb-and-flow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-ebb-and-flow.md
-published: true
-url: ebb-and-flow/index.html
-_type: Article
+_type: Blurb
 
 ---
 Album: Ebb & Flow
